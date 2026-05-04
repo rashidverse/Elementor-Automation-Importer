@@ -1,0 +1,42 @@
+.eai-wrap {
+    max-width: 1080px;
+}
+.eai-lead {
+    font-size: 15px;
+    max-width: 880px;
+}
+.eai-card {
+    background: #fff;
+    border: 1px solid #dcdcde;
+    border-radius: 8px;
+    margin-top: 18px;
+    padding: 22px;
+    box-shadow: 0 1px 2px rgba(0,0,0,.04);
+}
+.eai-card h2 {
+    margin-top: 0;
+}
+.eai-muted-card {
+    background: #fbfbfb;
+}
+.eai-muted-card pre {
+    overflow: auto;
+    background: #1d2327;
+    color: #f6f7f7;
+    border-radius: 6px;
+    padding: 16px;
+    line-height: 1.5;
+    max-height: 520px;
+}
+.eai-result-card ul {
+    list-style: disc;
+    margin-left: 18px;
+}
+.eai-actions .button {
+    margin-right: 8px;
+}
+.eai-error-list ul {
+    list-style: disc;
+    margin-left: 18px;
+    color: #8a2424;
+}

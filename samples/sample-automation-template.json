@@ -1,0 +1,34 @@
+{
+  "title": "Sample Automation Section",
+  "type": "section",
+  "version": "0.4",
+  "page_settings": [],
+  "assets": [],
+  "content": [
+    {
+      "id": "sample01",
+      "elType": "container",
+      "isInner": false,
+      "settings": {
+        "content_width": "boxed",
+        "boxed_width": { "unit": "px", "size": 1140, "sizes": [] },
+        "flex_direction": "column",
+        "align_items": "center",
+        "padding": { "unit": "px", "top": "80", "right": "20", "bottom": "80", "left": "20", "isLinked": false }
+      },
+      "elements": [
+        {
+          "id": "sample02",
+          "elType": "widget",
+          "widgetType": "heading",
+          "settings": {
+            "title": "Sample Elementor Automation Import",
+            "header_size": "h2",
+            "align": "center"
+          },
+          "elements": []
+        }
+      ]
+    }
+  ]
+}
