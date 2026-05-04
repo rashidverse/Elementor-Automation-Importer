@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Automation Importer
  * Description: Imports custom Elementor automation JSON files with embedded/base64 assets by uploading images to the Media Library and creating Elementor Library templates.
  * Version: 1.0.0
- * Author: ChatGPT
+ * Author: RashidVerse
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Text Domain: elementor-automation-importer

@@ -25,3 +25,5 @@ Use these placeholders inside Elementor widget settings:
 
 == Security ==
 SVG upload is disabled by default. You may enable it per import if the SVG file is trusted.
+
+rashid
