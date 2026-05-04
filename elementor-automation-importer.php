@@ -4,6 +4,8 @@
  * Description: Imports custom Elementor automation JSON files with embedded/base64 assets by uploading images to the Media Library and creating Elementor Library templates.
  * Version: 1.0.0
  * Author: RashidVerse
+ * Author URI: https://rashidverse.github.io/portfolio-websites/
+ * License: GPL-2.0+
  * Requires at least: 6.0
  * Requires PHP: 7.4
  * Text Domain: elementor-automation-importer
